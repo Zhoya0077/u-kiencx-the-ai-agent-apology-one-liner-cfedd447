@@ -1,5 +1,6 @@
 # The AI Agent Apology One-Liner
 
+[![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 [![Rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/Zhoya0077/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=badge&utm_campaign=makefun&ref=wrbbpgtj)
 [![Reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/Zhoya0077/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=badge&utm_campaign=makefun&ref=wrbbpgtj)
 
